@@ -7,7 +7,7 @@
 ---
 
 ### 📫 How to reach me
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+-[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYemtIjdcQ06byBD6aSIRoA%3D%3D)
 - Tiagoserafimc@gmail.com
   
 ---
