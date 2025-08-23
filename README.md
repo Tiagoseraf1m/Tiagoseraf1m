@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiago Serafim 
+#  Hello, I'm Tiago Serafim 👋
 
 🎓 I'm currently studying *Computer Science*   
 📚 At the moment, I'm learning the basics of *HTML, CSS, and JavaScript*  
