@@ -7,7 +7,7 @@
 ---
 
 ### 📫 How to reach me
-- [LinkedIn](linkedin.com/in/tiagoserafim)
+- [LinkedIn](https://www.linkedin.com/in/tiagoserafim/)
 - Tiagoserafimc@gmail.com
   
 ---
