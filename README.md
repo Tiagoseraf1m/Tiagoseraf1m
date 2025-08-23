@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Tiago Serafim 
 
-<!--
-**Tiagoseraf1m/Tiagoseraf1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying *Computer Science*   
+📚 At the moment, I'm learning the basics of *HTML, CSS, and JavaScript*  
+🚀 I use GitHub to share my learning journey and projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYemtIjdcQ06byBD6aSIRoA%3D%3D)
+- Email: Tiagoserafimc@gmail.com
+
+- ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagoseraf1m&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoseraf1m&layout=compact&theme=radical)
