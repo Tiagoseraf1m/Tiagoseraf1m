@@ -1,7 +1,7 @@
 #  Hello, I'm Tiago Serafim 👋
 
 🎓 I'm currently studying *Computer Science*   
-📚 At the moment, I'm learning the basics of *HTML, CSS, and JavaScript*  
+📚 At the moment, I'm learning the basics of Java and exploring programming logic
 🚀 I use GitHub to share my learning journey and projects  
 
 ---
